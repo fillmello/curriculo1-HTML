@@ -1,0 +1,268 @@
+html{
+
+    background-color: #eae0d5;
+
+}
+
+
+body {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+
+.githubicon{
+
+    display: inline;
+
+}
+
+ul{
+
+    display: inline;
+
+}
+
+.endereco{
+
+    font-size: 30px;
+    width: 40%;
+    float: left;
+
+}
+
+.email{
+
+    color: #22333b;
+    float: right;
+    font-size: 30px;
+    background-color: #eae0d5;
+}
+
+.elements1 {
+
+    display: inline;
+ 
+
+    float: left;
+    align-items: center;
+    font-size: 30px;
+    margin-left: 22%;
+    margin-top: 11%;
+    display: inline;
+  
+    color: antiquewhite;
+
+}
+
+.icons1 {
+
+    float: left;
+    margin: 0 auto;
+}
+
+.maininfos{
+
+    float: right;
+    width: 77%;
+    height: 320px;
+
+}
+
+.perfil{
+
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 260px;
+   
+}
+
+
+.header1{
+
+    background-color: #22333b;
+    height: 300px;
+    color: #eae0d5;
+
+}
+
+.facul{
+
+    font-size: 35px;
+    float: left;
+    display: block;
+    width: 60%;
+    margin-top: 35px;
+}
+
+
+.teste1{
+
+    width: 92%;
+}
+
+.espaçovazio {
+
+    color: #22333b;
+    float: right;
+    font-size: 30px;
+    background-color: #22333b;
+}
+
+.telefone {
+
+    color: #22333b;
+    float: right;
+    font-size: 30px;
+    background-color: #eae0d5;
+    margin: 1px;
+}
+
+
+.BORDA{
+  
+    background-color: #425C69;
+    color: #425C69;
+
+}
+
+.BORDA2{
+  
+    background-color: #c6ac8f;
+    height: 428px;
+
+    margin: 18px;
+    margin-right: 50px;
+    display: block;
+    width: 19%;
+
+
+}
+
+
+
+.CORPO{
+
+color: #33302C;
+font-size: 30px;
+float: right;
+width: 40%;
+margin-top: 0px;
+display: block;
+
+
+}
+
+.pe{
+border: 100px;
+
+}
+
+
+.BORDA3{
+  
+    background-color: #425C69;
+    color: #eae0d5;
+    margin-top: 170px;
+    height: 38px;
+    display: inline;
+    
+}
+
+.CORPO2{
+
+
+color: #33302C;
+font-size: 30px;
+float: right;
+width: 40%;
+margin-top: 0px;
+margin-left: 50px;
+display: block;
+
+
+}
+
+.BARRA{
+
+
+    color: #33302C;
+    background-color: #425C69;
+    font-size: 16px;
+    float: left;
+    width: 1450px;
+    margin-top: 0px;
+    display: inline;
+    
+    
+    
+    }
+
+
+
+.subtitulo{
+
+    margin-top: -30px;
+    font-size: 20px;
+    color: #425C69;
+
+}
+
+.tag0 {
+
+margin-top: -10px;
+
+
+}
+.tag1 {
+
+margin-top: 34px;
+
+
+}
+.tag2 {
+
+margin-top: 34px;
+
+
+}
+.tag3 {
+
+margin-top: 34px;
+
+
+}
+
+.tag4 {
+
+margin-top: 34px;
+
+
+}
+
+.AWS{
+
+margin-top: -20px;
+
+}
+
+.Certificados{
+
+    margin-top: 20px;
+
+
+}
+
+
+
+
+
+.div2{
+
+    margin-left: 170px;
+
+
+}
